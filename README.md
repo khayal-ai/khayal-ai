@@ -1,7 +1,7 @@
 # 👋 Hello World!
 ## I'm Khayal Al-Nomis
 ### AI Student at IAU
-### Passionate about Technology and Machine Learning
+### Passionate about learning and creating
 
 ---
 
