@@ -13,13 +13,6 @@
 
 ---
 
-## Currently Learning
-- Deep Learning 🧠
-- NLP 🤖
-- Reinforcement Learning 🎮
-
----
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khayal-al-nomis-a07099311)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khayal.alnomis@gmail.com)
