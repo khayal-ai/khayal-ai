@@ -13,11 +13,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Khayal's GitHub Stats](https://github-readme-stats.vercel.app/api?khayal-ai=&show_icons=true&theme=radical)
-
----
-
 ## 🌱 Currently Learning
 - Deep Learning 🧠
 - NLP 🤖
@@ -26,7 +21,7 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/khayal-al-nomis-a07099311)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khayal-al-nomis-a07099311)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khayal.alnomis@gmail.com)
 
 
