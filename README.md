@@ -1,5 +1,5 @@
-# 👋 Hello World!
-## I'm Khayal Al-Nomis
+# Hello World!👋
+## I'm Khayal
 ### AI Student at IAU
 ### Passionate about learning and creating
 
