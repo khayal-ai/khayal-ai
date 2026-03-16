@@ -1,7 +1,6 @@
 # Hello World!👋
 ## I'm Khayal
-### AI Student at IAU
-### Passionate about learning and creating
+### Artificial Intelligence student interested in Machine Learning, Computer Vision, and AI solutions for real-world problems.
 
 ---
 
