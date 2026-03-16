@@ -1,6 +1,5 @@
 # Hello World!👋
-## I'm Khayal
-### Artificial Intelligence student interested in Machine Learning, Computer Vision, and AI solutions for real-world problems.
+## I'm Khayal an Artificial Intelligence student interested in Machine Learning, Computer Vision, and AI solutions for real-world problems.
 
 ---
 
