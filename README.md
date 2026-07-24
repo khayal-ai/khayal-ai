@@ -1,8 +1,9 @@
 # Hello World! 👋
 
-## I'm Khayal, an Artificial Intelligence student passionate about exploring different fields of AI, including Machine Learning, Deep Learning, Computer Vision, and AI solutions for real-world problems.
+## I'm Khayal, an Artificial Intelligence student with a passion for Machine Learning, Deep Learning, Computer Vision, and AI solutions for real-world problems.
 
-Here, I'll share my projects, learning journey, and experiments as I continue developing my skills and working toward becoming a Machine Learning Engineer. I'm always excited to learn new technologies, build meaningful projects, and grow as an AI developer.
+Here, I share my projects, experiments, and learning journey as I continue to grow, learn, and explore the world of AI.
+
 ---
 
 ## Technologies & Tools
