@@ -1,6 +1,8 @@
-# Hello World!👋
-## I'm Khayal an Artificial Intelligence student interested in Machine Learning, Computer Vision, and AI solutions for real-world problems.
+# Hello World! 👋
 
+## I'm Khayal, an Artificial Intelligence student passionate about exploring different fields of AI, including Machine Learning, Deep Learning, Computer Vision, and AI solutions for real-world problems.
+
+Here, I'll share my projects, learning journey, and experiments as I continue developing my skills and working toward becoming a Machine Learning Engineer. I'm always excited to learn new technologies, build meaningful projects, and grow as an AI developer.
 ---
 
 ## Technologies & Tools
@@ -11,7 +13,7 @@
 
 ---
 
-## Connect with Me
+## Feel free to connect with me by:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khayal-al-nomis-a07099311)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khayal.alnomis@gmail.com)
 
