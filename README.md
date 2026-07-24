@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! Here, you'll find my projects, experiments, and learning journey as I continue expanding my knowledge, building practical AI applications, and exploring new technologies.
 ---
-### 💡 Always curious, always learning, and always building something new.
+### Always curious, always learning, and always building something new :)
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
